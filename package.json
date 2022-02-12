@@ -1,5 +1,5 @@
 {
-  "name": "tb-note-taker",
+  "name": "tb-notes-taker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,18 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/1tbrooks1/tb-note-taker.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/1tbrooks1/tb-note-taker/issues"
-  },
-  "homepage": "https://github.com/1tbrooks1/tb-note-taker#readme",
   "dependencies": {
-    "express": "^4.17.2",
-    "uuid": "^8.3.2"
-  }
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1tbrooks1/tb-notes-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1tbrooks1/tb-notes-taker/issues"
+  },
+  "homepage": "https://github.com/1tbrooks1/tb-notes-taker#readme"
 }
